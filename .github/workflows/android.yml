@@ -19,11 +19,13 @@ jobs:
           distribution: temurin
           java-version: 17
 
+      - name: Set up Gradle 8.9
+        uses: gradle/actions/setup-gradle@v5
+        with:
+          gradle-version: 8.9
+
       - name: Setup Android SDK
         uses: android-actions/setup-android@v3
-
-      - name: Install Gradle
-        run: sudo apt-get update && sudo apt-get install -y gradle
 
       - name: Build APK
         run: gradle assembleDebug
