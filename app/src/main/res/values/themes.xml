@@ -1,10 +1,9 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <style name="Theme.WildLegend" parent="Theme.MaterialComponents.DayNight.NoActionBar">
-        <item name="colorPrimary">@color/teal_glow</item>
-        <item name="colorPrimaryVariant">@color/midnight</item>
-        <item name="colorSecondary">@color/gold_mist</item>
-        <item name="android:statusBarColor">@android:color/transparent</item>
-        <item name="android:navigationBarColor">@color/midnight</item>
-        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+        <item name="colorPrimary">#2F5B6A</item>
+        <item name="colorPrimaryVariant">#1E3D47</item>
+        <item name="colorSecondary">#D4B06A</item>
+        <item name="android:statusBarColor">#0B1420</item>
+        <item name="android:navigationBarColor">#0B1420</item>
     </style>
 </resources>
