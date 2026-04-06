@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wild Legend Theme</string>
+    <string name="wallpaper_title">Wild Legend Live Wallpaper</string>
+    <string name="subtitle">Ambiance aventure, ruines anciennes, souffle héroïque. Active le fond animé puis ajuste les options si tu veux une lecture plus calme.</string>
+    <string name="readable_mode">Mode lisible</string>
+    <string name="particles_mode">Particules mystiques</string>
+    <string name="apply_theme">Activer le thème</string>
+    <string name="open_battery_settings">Ouvrir les réglages batterie</string>
+    <string name="footer_hint">Sur Android, l’activation finale du fond animé demande toujours une confirmation système.</string>
+</resources>
